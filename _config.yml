@@ -3,8 +3,7 @@ logo: "IMG_2280.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
- When it comes to data analysis and visualization, <br>
- I find storytelling an excellent medium to present numbers,
+<p>When it comes to data analysis and visualization,<br> line breaks<br> in a text,<br> use the br<br> element.</p>
    <br><br>
   <a href="https://www.linkedin.com/in/nisultana/">View My LinkedIn Profile</a> 
   <a href="https://github.com/nigar-sultana1123">View My GitHub Profile</a> 
