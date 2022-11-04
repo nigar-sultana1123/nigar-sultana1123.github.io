@@ -2,10 +2,7 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Modeling Loan Default in Peer-to-Peer Lending Services](https://github.com/nigar-sultana1123/Modeling-Default)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
