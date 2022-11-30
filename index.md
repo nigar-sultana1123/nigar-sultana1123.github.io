@@ -6,7 +6,7 @@
 
 ---
 
-[Data Analysis on the Annual Earnings of H1B Applicant Business Analysts](https://nigar-sultana1123.github.io/Exploratory-Data-Analysis/)
+[Data Analysis on the Annual Earnings of H1B Applicant Business Analysts](https://nigar-sultana1123.github.io/Data-Analysis/)
 
 ---
 
