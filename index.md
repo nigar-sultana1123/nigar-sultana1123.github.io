@@ -14,5 +14,8 @@
 
 ---
 
+[The Effect of Country of Manufacture on Fly Reel Prices: An Analysis using Hedonic Price Theory and Oaxaca Decomposition](https://nigar-sultana1123.github.io/Regression_Analysis/)
+
+---
 
 
