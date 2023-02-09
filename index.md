@@ -6,6 +6,10 @@
 
 ---
 
+[The Effect of Country of Manufacture on Fly Reel Prices: An Analysis using Hedonic Price Theory and Oaxaca Decomposition](https://nigar-sultana1123.github.io/Regression_Analysis/)
+
+---
+
 [Data Analysis on the Annual Earnings of H1B Applicant Business Analysts](https://nigar-sultana1123.github.io/Exploratory-Data-Analysis/)
 
 ---
@@ -14,8 +18,6 @@
 
 ---
 
-[The Effect of Country of Manufacture on Fly Reel Prices: An Analysis using Hedonic Price Theory and Oaxaca Decomposition](https://nigar-sultana1123.github.io/Regression_Analysis/)
 
----
 
 
