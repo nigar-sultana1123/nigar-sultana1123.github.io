@@ -4,7 +4,7 @@
 ## Staistical Modeling and Data Analysis
 
 - [Modeling Loan Default in Peer-to-Peer Lending Services](https://github.com/nigar-sultana1123/Modeling-Default)
-- [The Effect of Country of Manufacture on Fly Reel Prices: An Analysis using Hedonic Price Theory and Oaxaca Decomposition](https://nigar-sultana1123.github.io/Regression_Analysis/)
+- [The Effect of Country of Manufacture on Fly Reels' Prices: An Analysis using Hedonic Price Theory and Oaxaca Decomposition](https://nigar-sultana1123.github.io/Regression_Analysis/)
 - [Data Analysis on the Annual Earnings of H1B Applicant Business Analysts](https://nigar-sultana1123.github.io/Exploratory-Data-Analysis/)
 
 ---
