@@ -9,8 +9,10 @@
 
 ---
 ## Data Wrangling and Analysis in SQL
+
 - [Analysis of Social Buzz's Top Popular Content Categories](https://nigar-sultana1123.github.io/Social_Buzz/)
 - [Exploratory Data Analysis on Dognitin's Customer Data](https://nigar-sultana1123.github.io/Dognition-/)
+
 ---
 
 ## Dashboards and Presentations 
