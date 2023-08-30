@@ -18,7 +18,7 @@ Used Hedonic price theory and Oaxaca Decomposition to find consumers' willingnes
 
  ---
 
-## Analyzing Annual Earnings of H1B Applicant Business Analysts: A Data Study
+## Analyzing Annual Earnings of H1B Applicant Business Analysts
 
 The H1B visa stands as a temporary nonimmigrant visa permitting American employers to engage highly educated foreign professionals, primarily within the domains of Science, Technology, Engineering, and Mathematics(STEM). This project explores the typical earnings of an H1B applicant for a business analyst position in different regions in the USA— and the value of those earnings after adjusting for the cost of living across the USA.
 
