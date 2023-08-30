@@ -1,9 +1,11 @@
-# Portfolio
+# Statistical Modeling and Data Analysis
 
 ---
-## Statistical Modeling and Data Analysis
+## Modeling Loan Default in Peer-to-Peer Lending Services
 
-- [Modeling Loan Default in Peer-to-Peer Lending Services](https://github.com/nigar-sultana1123/Modeling-Default)
+A discrete-time survival- analysis was built to predict the loan default using Lending Club's loan data, including customer information on loan purpose, grade, annual income, FICO score, verification status, etc. 
+
+ [View the full description and Code](https://github.com/nigar-sultana1123/Modeling-Default)
 - [The Effect of Country of Manufacture on Fly Reels' Prices: An Analysis using Hedonic Price Theory and Oaxaca Decomposition](https://nigar-sultana1123.github.io/Regression/)
 - [Data Analysis on the Annual Earnings of H1B Applicant Business Analysts](https://nigar-sultana1123.github.io/Exploratory-Data-Analysis/)
 
