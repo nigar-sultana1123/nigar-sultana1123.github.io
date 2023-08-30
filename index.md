@@ -5,7 +5,7 @@
 
 A discrete-time survival- analysis was built to predict the loan default using Lending Club's loan data, including customer information on loan purpose, grade, annual income, FICO score, verification status, etc. 
 
- [View the full description and Code](https://github.com/nigar-sultana1123/Modeling-Default)
+ [View the full description and code](https://github.com/nigar-sultana1123/Modeling-Default)
 
 ---
 ## The Effect of Country of Manufacture on Fly Reels' Prices
@@ -14,7 +14,7 @@ Used Hedonic price theory and Oaxaca Decomposition to find consumers' willingnes
 
 ![github](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/b05a63b9-f07d-4c4f-9599-a417ec48b950)
 
-[View the full description and Code](https://nigar-sultana1123.github.io/Regression/)
+[View the full description and code](https://nigar-sultana1123.github.io/Regression/)
 
  ---
 
@@ -25,25 +25,28 @@ The H1B visa stands as a temporary nonimmigrant visa permitting American employe
 ![github](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/519c16a6-5778-4a09-9472-36f347eea82a)
 ![github_scatterplot](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/f06d299e-f8b6-4b92-b4b0-ba910d263ad5)
 
-[View the full description and Code](https://nigar-sultana1123.github.io/Exploratory-Data-Analysis/)
+[View the full description and code](https://nigar-sultana1123.github.io/Exploratory-Data-Analysis/)
 
 ---
 
 ## Exploratory Data Analysis of a Dog Assessment Company
 
+Dognition is a company that offers a unique understanding of dogs' personalities and capabilities through a comprehensive "Dognition Assessment" provided by three subscription plans, consisting of 20 games designed by experts to categorize dogs into nine profile types. Once the assessment is completed, dog owners receive a personalized report of 10-15 pages detailing their dog's cognitive strategies and game-specific results. The company's primary objective is to collect comprehensive data from diverse dog breeds. To achieve this, the company seeks to identify potential business changes to boost the number of completed tests on its website. This analysis recommends business changes that Dognition can implement to increase the number of tests that users complete on its website.
 
 ![github_dognition](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/b7e25ca0-e80b-4885-b483-45ef01e1e91b)
 
-
-
-
-- [View the full description and Code](https://nigar-sultana1123.github.io/Dognition-/)
+[View the full description and code](https://(https://nigar-sultana1123.github.io/Dognition/)
+[Tableau Public Link](https://public.tableau.com/app/profile/nigar.sultana4615/viz/ExploratoryDashboard_16933410206890/Dashboard3)
 
 ---
 
 ## Infographic for UNDP Accelerator Lab: A Volunteer Project for Viz for Social Goods 
 
- [Interactive Dashboard and Infographic for UNDP Accelerator Lab](https://nigar-sultana1123.github.io/UNDP_Accelerator_Lab/)
+In 2019, UNDP’s Accelerator Labs were built to learn what works and what doesn’t in sustainable development to achieve the Sustainable Development Goals (SDGs) in time. One of the three team members of the Accelerator Labs, the solution mapper, has discovered 359 grassroots energy solutions from different regions, demographics, and energy sources in the world. These solutions are promising for UNDP’s Strategic Plan (2022 – 2025), which sets out the ambitious objective of increasing access to clean and affordable energy for 500 million people by speeding up investment in distributed renewable energy solutions. This volunteer project (a Viz for Social Good project) aims to build an interactive dashboard and infographic for the government partners, the international donor community and the general public to advocate for local solutions in achieving SDGs.
+
+![github_AcceleratorLab](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/47923eb1-2f5f-478c-a674-e2e92560458f)
+
+[View the full description and code](https://nigar-sultana1123.github.io/UNDP_Accelerator_Lab/)
 
 ---
 
