@@ -35,7 +35,8 @@ Dognition is a company that offers a unique understanding of dogs' personalities
 
 ![github_dognition](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/b7e25ca0-e80b-4885-b483-45ef01e1e91b)
 
-[View the full description and code](https://(https://nigar-sultana1123.github.io/Dognition/)
+[View the full description and code](https://nigar-sultana1123.github.io/Dognition/)
+
 [Tableau Public Link](https://public.tableau.com/app/profile/nigar.sultana4615/viz/ExploratoryDashboard_16933410206890/Dashboard3)
 
 ---
