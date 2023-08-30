@@ -31,8 +31,13 @@ The H1B visa stands as a temporary nonimmigrant visa permitting American employe
 
 ## Exploratory Data Analysis of a Dog Assessment Company
 
-- [Analysis of Social Buzz's Top Popular Content Categories](https://nigar-sultana1123.github.io/Social_Buzz/)
-- [Exploratory Data Analysis on Dognitin's Customer Data](https://nigar-sultana1123.github.io/Dognition-/)
+
+![github_dognition](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/b7e25ca0-e80b-4885-b483-45ef01e1e91b)
+
+
+
+
+- [View the full description and Code](https://nigar-sultana1123.github.io/Dognition-/)
 
 ---
 
