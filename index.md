@@ -20,7 +20,7 @@ Used Hedonic price theory and Oaxaca Decomposition to find consumers' willingnes
 
 ## Analyzing Annual Earnings of H1B Applicant Business Analysts
 
-The H1B visa stands as a temporary nonimmigrant visa permitting American employers to engage highly educated foreign professionals, primarily within the domains of Science, Technology, Engineering, and Mathematics(STEM). This project explores the typical earnings of an H1B applicant for a business analyst position in different regions in the USA— and the value of those earnings after adjusting for the cost of living across the USA.
+The H1B visa is a temporary nonimmigrant visa permitting American employers to engage highly educated foreign professionals, primarily within the domains of Science, Technology, Engineering, and Mathematics(STEM). This project explores the typical earnings of an H1B applicant for a business analyst position in different regions in the USA— and the value of those earnings after adjusting for the cost of living across the USA.
 
 ![github](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/519c16a6-5778-4a09-9472-36f347eea82a)
 ![github_scatterplot](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/f06d299e-f8b6-4b92-b4b0-ba910d263ad5)
@@ -46,11 +46,11 @@ Living in the United States offers diverse experiences, with each state presenti
 
 This data story analyzes state-level data from various sources to evaluate income, well-being, and happiness across all states.
 
-![Screenshot 2023-09-29 163809](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/317f34f7-2859-4d45-ad9f-f701f2df1ced)
+![Income_Shortage](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/3d40a5d0-97fb-4610-bc58-a301b6139838)
 
-![Screenshot 2023-09-29 163937](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/4d63892e-a7e4-467e-88f2-3f60e24274ba)
+![Ranking_Happiness](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/152452e6-fd1e-4cfa-acd7-c49b9dd75876)
 
-![Screenshot 2023-09-29 164022](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/0a784ccf-bf6c-4a84-aee1-011a852ee273)
+![comparison](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/273bb760-3ef7-48dc-b361-0d4c640255fc)
 
 [Tableau Public Link](https://public.tableau.com/app/profile/nigar.sultana4615/viz/Statewise_Income/Story3?publish=yes)
 
