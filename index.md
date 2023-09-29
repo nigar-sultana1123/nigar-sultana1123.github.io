@@ -40,6 +40,22 @@ Dognition is a company that offers a unique understanding of dogs' personalities
 [Tableau Public Link](https://public.tableau.com/app/profile/nigar.sultana4615/viz/ExploratoryDashboard_16933410206890/Dashboard3)
 
 ---
+## Income, Well-being, and Happiness: A State-Level Analysis
+
+Living in the United States offers diverse experiences, with each state presenting unique financial, educational, healthcare, cost of living, infrastructure, and mental well-being perspectives. While the choice of where to live is often subjective, there are objective measures that can aid in state comparisons. Median income, coupled with living expenses, provides valuable insights into the living standards of residents. Furthermore, a state's commitment to ensuring its citizens' well-being is pivotal. Additionally, while happiness is a subject of psychological discourse, achieving a certain income level enables individuals to access essentials like healthcare and education, contributing to emotional well-being. Crucial elements such as poverty rates, cost of living, public safety, and environmental quality significantly impact people's quality of life.
+
+This data story analyzes state-level data from various sources to evaluate income, well-being, and happiness across all states.
+
+![Screenshot 2023-09-29 163809](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/317f34f7-2859-4d45-ad9f-f701f2df1ced)
+
+![Screenshot 2023-09-29 163937](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/4d63892e-a7e4-467e-88f2-3f60e24274ba)
+
+![Screenshot 2023-09-29 164022](https://github.com/nigar-sultana1123/nigar-sultana1123.github.io/assets/54599352/0a784ccf-bf6c-4a84-aee1-011a852ee273)
+
+[Tableau Public Link](https://public.tableau.com/app/profile/nigar.sultana4615/viz/Statewise_Income/Story3?publish=yes)
+
+---
+
 
 ## Infographic for UNDP Accelerator Lab: A Volunteer Project for Viz for Social Goods 
 
