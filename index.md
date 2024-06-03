@@ -18,6 +18,13 @@ Used Hedonic price theory and Oaxaca Decomposition to find consumers' willingnes
 
  ---
 
+## Predicting Customer Response in Bank Marketing Campaign for Term Deposit Subscription
+
+Four classification models, such as decision tree, logistic regression, random forest, and support vector machine, were used to predict the customer response in a direct bank marketing campaign. Th eprimary focus was on the predictive capabilities of these models, followed by a comparative analysis to identify the best-performing model. 
+
+[View the full description and code](https://nigar-sultana1123.github.io/Classification-Modeling/)
+ ---
+
 ## Analyzing Annual Earnings of H1B Applicant Business Analysts
 
 The H1B visa is a temporary nonimmigrant visa permitting American employers to engage highly educated foreign professionals, primarily within the domains of Science, Technology, Engineering, and Mathematics(STEM). This project explores the typical earnings of an H1B applicant for a business analyst position in different regions in the USA— and the value of those earnings after adjusting for the cost of living across the USA.
