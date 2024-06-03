@@ -23,6 +23,7 @@ Used Hedonic price theory and Oaxaca Decomposition to find consumers' willingnes
 Four classification models, such as decision tree, logistic regression, random forest, and support vector machine, were used to predict the customer response in a direct bank marketing campaign. Th eprimary focus was on the predictive capabilities of these models, followed by a comparative analysis to identify the best-performing model. 
 
 [View the full description and code](https://nigar-sultana1123.github.io/Classification-Modeling/)
+
  ---
 
 ## Analyzing Annual Earnings of H1B Applicant Business Analysts
